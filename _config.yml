@@ -25,10 +25,7 @@ title: Leavy's Home for Bioinformatics
 navbar-links:
   Project:
     - GraP: "http://structuralbiology.cau.edu.cn/GraP/"
-  Archive: 
-    - Paper: "papers"
-    - Book: "books"
-    - Project: "projects"
+  Archive: "archive"
   Activity: 
     - ResearchGate: "https://www.researchgate.net/profile/Leavy_Zhang"
     - LinkedIn: "https://www.linkedin.com/in/liwei-zhang-37377470/"
