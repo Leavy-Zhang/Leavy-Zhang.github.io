@@ -36,5 +36,5 @@ layout: page
 +[[NCPB 2013]] Gene family classification and PPI network prediction in the *Gossypium raimondii* genome.
 
 ### Books
-+ Participation in the translation of electronic tutorial of Biopython [[link]](https://github.com/Leavy-Zhang/Biopython-cn "biopython") 
++ Participation in the translation of electronic tutorial of *Biopython* [[link]](https://github.com/Leavy-Zhang/Biopython-cn "biopython") 
 
