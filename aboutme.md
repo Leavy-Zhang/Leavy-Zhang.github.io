@@ -14,8 +14,8 @@ show-avatar: false
 
 [1]: http://www.ibp.cas.cn/lighLab/ "lilab"
 [2]: http://bioinformatics.cau.edu.cn/ZhenSuLab/index_e.html "sulab"
-What else do you need?
 
 ### Research of interests
 Hello, everyone!
+
 I am a freshman in GitHub. Currently, I am a postdoctoral fellow focusing on applying and developing Bioinformatics and mathematical methods to study (especially histone variant related) epigenetic modifications and their impacts on gene transcription, DNA replication, evolution and diseases in model organisms. Beside those languages for web development,e.g. html, php, CSS and mysql, I am also familiar with Python, R. Beyond that, I like jogging, playing soccer and singing.
