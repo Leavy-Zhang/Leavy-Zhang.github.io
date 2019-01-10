@@ -31,9 +31,9 @@ layout: page
 + Qi You, **Liwei Zhang**, Xin Yi, Zhenghai Zhang, Wengying Xu, and Zhen Su. (2015) SIFGD: *Setaria italica* Functional Genomics Database. Molecular Plant. doi:10.1016/j.molp.2015.02.001. [[link]](http://dx.doi.org/10.1016/j.molp.2015.02.001 "9")
 
 ### Posters
-+[[Epigenetics Retreat 2018]] HIRA mediated genome-wide deposition of H2A.Z and its regulation of NPC differentiation in mouse.
-+[[Epigenetics Retreat 2017]] H2A.Z licenses and activates early replciation origins.
-+[[NCPB 2013]] Gene family classification and PPI network prediction in the *Gossypium raimondii* genome.
++ [[Epigenetics Retreat 2018]] HIRA mediated genome-wide deposition of H2A.Z and its regulation of NPC differentiation in mouse.
++ [[Epigenetics Retreat 2017]] H2A.Z licenses and activates early replciation origins.
++ [[NCPB 2013]] Gene family classification and PPI network prediction in the *Gossypium raimondii* genome.
 
 ### Books
 + Participation in the translation of electronic tutorial of *Biopython* [[link]](https://github.com/Leavy-Zhang/Biopython-cn "biopython") 
