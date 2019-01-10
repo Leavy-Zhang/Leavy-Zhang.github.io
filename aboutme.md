@@ -12,8 +12,8 @@ show-avatar: false
 - 2011-2016: PhD, [Zhen Su lab][2] , Colledge of Biological Sciences, China Agricultural University.
 - 2007-2011: B.Sc, School of Life Science and Biotechnology, Dalian University of Technology.
 
-[1]: https://www.ibp.cas.cn/lighLab/ "lilab"
-[2]: https://bioinformatics.cau.edu.cn/ZhenSuLab/index_e.html "sulab"
+[1]: http://www.ibp.cas.cn/lighLab/ "lilab"
+[2]: http://bioinformatics.cau.edu.cn/ZhenSuLab/index_e.html "sulab"
 What else do you need?
 
 ### Research of interests
