@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 张力圩，Leavy Zhang
+title: Leavy Zhang
 subtitle: Postdoctoral fellow in high-throughput data mining and Bioinformatics development
 show-avatar: false
 ---
