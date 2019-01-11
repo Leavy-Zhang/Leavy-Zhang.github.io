@@ -10,11 +10,6 @@ facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
-
-researchgate:
-  name:"ResearchGate" 
-  baseURL:"https://www.researchgate.net/profile/Leavy_Zhang"
-  icon: "fa-researchgate"
   
 github:
   name: "GitHub"
