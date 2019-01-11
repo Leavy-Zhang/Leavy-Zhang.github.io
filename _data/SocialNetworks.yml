@@ -11,6 +11,11 @@ facebook:
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
 
+researchgate:
+  name:"ResearchGate" 
+  baseURL:"https://www.researchgate.net/profile/Leavy_Zhang"
+  icon: "researchgate"
+  
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
@@ -38,7 +43,7 @@ email:
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
+  baseURL: "https://www.linkedin.com/in/liwei-zhang-37377470/"
   icon: "fa-linkedin"
 
 xing:
