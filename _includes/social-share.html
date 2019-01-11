@@ -45,7 +45,15 @@
       <span class="sr-only">LinkedIn</span>
     </a>
   {% endif %}
-
+  
+  {% if site.share-links-active.linkedin %}
+  <!--- Share on ResearchGate -->
+    <a href="https://www.researchgate.net/shareArticle?mini=true&url={{ site.url }}{{ page.url }}"
+      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
+      <span class="fa fa-fw fa-researchgate" aria-hidden="true"></span>
+      <span class="sr-only">ResearchGate</span>
+    </a>
+  {% endif %}
 </section>
 
 {% endif %}
