@@ -6,6 +6,10 @@ layout: page
 
 ### Papers
 
+##### [2019]
+
+Long, H., **Zhang, L.**, Lv, M. et al. H2A.Z facilitates licensing and activation of early replication origins. Nature (2019) doi:10.1038/s41586-019-1877-9. [[link]](https://www.nature.com/articles/s41586-019-1877-9 "10")
+
 ##### [2018]
 
 + Jiaotong Yang, Yue Liu, Hengyu Yan, Tian Tian, Qi You, **Liwei Zhang**, Wenying Xu, Zhen Su. (2018). PlantEAR: functional analysis platform for plant EAR motif-containing proteins. Frontiers in Genetics. 9:590. doi: 10.3389/fgene.2018.00590. [[link]](http://dx.doi.org/10.3389/fgene.2018.00590 "1")
