@@ -8,7 +8,7 @@ layout: page
 
 ##### [2019]
 
-Long, H., **Zhang, L.**, Lv, M. et al. H2A.Z facilitates licensing and activation of early replication origins. Nature (2019) doi:10.1038/s41586-019-1877-9. [[link]](https://www.nature.com/articles/s41586-019-1877-9 "10")
++ Long, H., **Zhang, L.**, Lv, M. et al. H2A.Z facilitates licensing and activation of early replication origins. Nature (2019) doi:10.1038/s41586-019-1877-9. [[link]](https://www.nature.com/articles/s41586-019-1877-9 "10")
 
 ##### [2018]
 
