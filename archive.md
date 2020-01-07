@@ -8,7 +8,7 @@ layout: page
 
 ##### [2019]
 
-+ HaiZhen Long, **Liwei Zhang**, Mengjie Lv, Zengqi Wen and *et al.* (2019). H2A.Z facilitates licensing and activation of early replication origins. Nature.  doi:10.1038/s41586-019-1877-9. [[link]](https://www.nature.com/articles/s41586-019-1877-9 "10")
++ HaiZhen Long<sup>#</sup>, **Liwei Zhang<sup>#</sup>**, Mengjie Lv<sup>#</sup>, Zengqi Wen<sup>#</sup> and *et al.* (2019). H2A.Z facilitates licensing and activation of early replication origins. Nature.  doi:10.1038/s41586-019-1877-9. [[link]](https://www.nature.com/articles/s41586-019-1877-9 "10")
 
 ##### [2018]
 
